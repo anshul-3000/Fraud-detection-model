@@ -23,7 +23,7 @@ pip install -r requirements.txt
 Start the Flask application:
 python app.py
 
-#### Open your web browser and go to http://127.0.0.1:5000/ to access the fraud detection interface.
+#### Open your web browser and go to http://127.0.0.1:5000/](https://fraud-detection-model.onrender.com/ to access the fraud detection interface.
 
 Enter the transaction details in the form and submit to get a prediction on whether the transaction is fraudulent or not.
 
