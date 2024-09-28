@@ -1,4 +1,5 @@
-# Fraud Detection System Using Decision Tree Classifier
+# Transaction Guardian
+## Fraud Detection System Using Decision Tree Classifier
 ## Overview
 This project implements a fraud detection system using a Decision Tree Classifier with Gini Impurity. The model is designed to identify fraudulent transactions based on historical transaction data. The project includes data preprocessing, model training, and a simple web interface for real-time fraud detection.
 
